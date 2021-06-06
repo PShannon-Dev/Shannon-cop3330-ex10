@@ -1,0 +1,20 @@
+@startuml
+'https://plantuml.com/salt
+
+class App
+{
+    additem() 'both price and item name
+
+}
+
+App<-- Machine
+
+class Machine
+{
+    summation()
+    tax()
+    total()
+}
+
+
+@enduml
