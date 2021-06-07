@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 10 Solution
+ *  Copyright 2021 Paul Shannon
+ */
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
